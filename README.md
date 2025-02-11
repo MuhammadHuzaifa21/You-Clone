@@ -28,7 +28,7 @@ A basic YouTube clone developed using **HTML, CSS, PHP, and MySQL**. This projec
 4. Move the project folder to `htdocs`.
 5. Open the browser and go to:
    ```sh
-   http://localhost/youtube_clone
+   http://localhost/You-Clone
    ```
 
 ## Folder Structure
